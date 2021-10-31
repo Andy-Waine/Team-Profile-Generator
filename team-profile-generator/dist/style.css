@@ -3,7 +3,7 @@
 }
 
 :root {
-    --primary: rgb(0, 68, 255);
+    --primary: rgb(15, 0, 223);
     --secondary: white;
 }
 
@@ -38,3 +38,5 @@ body {
     display: flex;
     
 }
+
+
